@@ -1,0 +1,266 @@
+
+gitHub账户:
+84730508@qq.com
+oyd31326179
+
+--------------------------------------------------------------------------------------
+oa地址
+http://oa.fshmzx.com
+欧阳电
+oyd31326179
+
+服务器信息
+
+SERVER 2008
+120.77.153.135
+administrator
+WdsFshmzx@2019
+
+SSH
+47.106.85.45:2020
+user: root
+new padd: HmLinux5@0 
+
+ssh私钥密码： fsHmzx%ssh5@02019
+
+
+Mysql
+47.106.85.45:1306
+user: Rmt@root
+pass: 35Sodu84kosuyo5EpOGevoje25tePE
+
+天津服务器 Windows
+123.56.110.102:12102
+admin_tyuan
+1!@HUqB@PtINzva
+  
+---------------------------------
+
+佛山PC后台账号密码
+http://www.fshmmr.com/e/admin/
+user: pchmzx
+newPass: fshmzx@admin2019  //20190721 修改
+
+m手机端后台 
+http://sys.m.fshmzx.com/sysadmin/
+user: hmadmin
+newPass: 594admin5@02019  //180809
+
+
+4g手机站
+4g.fshmzx.com
+http://sys.4g.fshmzx.com/hmadmin/
+user: hmadmin
+newPass: 594admin5@02019  //180913
+
+
+5g手机站 http://5g.fshmzx.com
+5g.fshmzx.com/hmadmin/
+用户： hmadmin
+密码： hkhmzx5@0
+
+
+华美植发PC官网后台
+http://www2.fshmzf.com/zfadmin
+user: hmzhifa
+pass: hmzhifa5@0
+
+华美植发手机端
+http://zf.fshmzf.com
+
+
+https://x.fshmzx.com/web （华美商城使用中）
+用户：admin
+密码：fshmzx@2019
+
+
+https://x.fshmzx.com/web/
+用户名：华美收费室
+密码：hmzx82566666
+
+
+华美公安备案
+http://www.beian.gov.cn
+用户：fshmzx
+密码：fshmzx@019
+
+佛山华美阿里云信息
+账号： 		fshm15110320668
+登录密码： 	fshmzxAliyun5@0
+绑定手机： 	18000852178
+
+
+佛山阿里云短信信息
+appkey = LTAI5EQWVTVVju3s
+secret = C2GDEljQoCQAJ0a5xPKX6s3Yd34gCt
+签名   = 佛山华美整形
+
+
+佛山华美第三方域名解析登录网址 	https://www.dnspod.cn
+	账号： 	fshmzx@163.com
+	密码： 	fshmzx5@0
+
+佛山华美咯吱网 http://www.gegz.org （fshmzx.com,fshmmr.com 这个两个域名管理的后台）
+	账号： 	fshmzx@163.com
+	密码： 	fshmzx20190706
+
+模板ID
+通用验证码：      SMS_135025546
+WIFI认证：        SMS_140551142
+在线表单：        SMS_135032043 
+
+
+
+佛山华美新二级域名（易聊机器人使用的域名）
+	手机端:
+		yl.fshmmr.com
+		yl.fshmzf.com
+		yl.fshmyy.net
+		yl.fshmyl.com 
+		yl.fshmzx.com
+
+	pc端:
+		ylwww.fshmmr.com
+		ylwww.fshmzf.com
+		ylwww.fshmyy.net
+		ylwww.fshmyl.com 
+		ylwww.fshmzx.com
+---------------------------------
+海南韩美pc后台
+www.hkhmzxmr.com/e/admin
+用户:		hmadmin
+密码:		admin@019
+海南韩美手机端
+m.hkhmzxmr.com/e/admin
+用户:		hmadmin
+密码:		admin@019
+
+hkhmzr.com
+hkhmzxyy.com 	新站
+
+4g.hkhmzxyy.com/hmadmin
+后台登录
+用户： 	hmadmin
+密码： 	hkhmzx5@0
+
+mysql
+数据库： m_hkhmzxyy_com
+用户名： m_hkhmzxyy_com
+密码： 	 m_hkhmzxyy_com!@#
+
+
+韩美商务通账号：
+PLT42346893
+网管-李
+hm875986
+
+---------------------------------
+运城华美
+
+域名管理
+http://www.gegz.org/
+1652950363@qq.com
+Wlb112233
+
+
+域名
+ychmmr.com
+ychmzx.com
+
+运城华美阿里云备案账号：
+	用户名：运城华美整形美容医院
+	密码：TYhm2019aly
+
+PC站后台：
+	http://www.ychmzx.com/e/jsbgn
+	ychmcx
+	ychmzx.88
+手机站后台，需要添加本地host：
+	http://sys.ychmzx.com/hmadmin/  
+	hmadmin
+	594admin5@0
+
+ftp账号：
+123.56.110.102
+ychmzx
+WtMUc2hxJdxNXUNE
+
+
+运城商务通账号：
+站点Id:  	DFT81891974  
+账号： 		华美-李顾问
+密码： 		hmjj666
+
+
+----------------------------------
+天津华美
+	tjhmzx.com
+	tjhmzr.com
+	tjhmmr.com
+	tjhmyk.com
+	tjhmkq.com
+	tjhmzf.com
+
+http://www.tjhmzx.com/tjadmin
+用户：pcgly
+密码：tjhm@admin520
+
+手机站
+http://m.tjhmzx.com/tjadmin
+用户： 	tjhm
+密码： 	tjhm5@0
+
+-------------------------------------------------------------
+
+湖南韩美整形美容
+cshmzr.com
+cshmzxmr.com
+cshmzxyy.com
+
+
+PC端
+http://www.cshmzxmr.com/e/admin
+用户： 	hmadmin
+密码： 	admin@019
+
+手机端
+http://m.cshmzxmr.com/e/admin/
+用户： 	hmadmin
+密码： 	admin@019
+
+
+商务通
+站点ID：DHT50468352
+登录名：cshmyy
+密码：cshm20190510(管理员权限)
+
+
+mysql
+数据库：www_cshmzxmr_com
+用户名：www_cshmzxmr_com
+密码： 	www_cshmzxmr_com!@#
+
+
+数据库： m_cshmzxmr_com
+用户名： m_cshmzxmr_com
+密码： 	 m_cshmzxmr_com!@#
+
+-----------------------------------
+
+其他网站账户资料
+
+商务通
+DCT38951540
+程序-小军     
+fshm123456
+
+数据同步密码
+fshmsame
+Zoossoft@2019
+
+小军电脑密码：dcr
+
+--------------------------------------
+http://ck.fshmzx.com/
+dcr163
+admin888
